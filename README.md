@@ -13,5 +13,18 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 ## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# React-Js-Frontend-Projects
+# React-Js-Frontend-Projects 1
+📚 What I Learned
+
+Understanding React components
+Creating and structuring a Navigation (Nav) component
+Exporting images from Figma to React project
+Continuing and refining the Nav section
+Emmet setup for React development
+Adding custom fonts in React
+Writing CSS styling for components
+Refactoring Navigation into reusable components
+Building Hero section
+Styling Hero section
+
+# React-Js-Frontend-Projects 2
