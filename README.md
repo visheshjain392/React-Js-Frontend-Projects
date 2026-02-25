@@ -22,14 +22,23 @@ User input handling
 Clean and responsive layout
 Component-based structure
 
-🛠️ Tech Stack
-React JS
-JavaScript
-HTML
-CSS
-
 🎯 Purpose
 To learn React components, form creation, and basic styling by building a real-world mini project.
 
 # React-Js-Frontend-Projects 3
+Dice Game 🎲
 
+This is a simple Dice Game built using React to practice component-based development, state management, and user interaction.
+
+📌 Project Overview
+
+The Dice Game allows users to roll a dice and generate random numbers. The game updates the score based on the dice result and provides an interactive UI experience.
+
+✨ Features
+Random dice roll functionality
+Score tracking system
+Interactive user interface
+Component-based structure
+Dynamic state updates
+
+# React-Js-Frontend-Projects 4
