@@ -1,3 +1,9 @@
+🛠️ Tech Stack
+React JS
+JavaScript
+HTML
+CSS
+
 # React-Js-Frontend-Projects 1
 📚 What I Learned
 
@@ -42,3 +48,18 @@ Component-based structure
 Dynamic state updates
 
 # React-Js-Frontend-Projects 4
+Foody Zone 🍔
+Foody Zone is a simple food menu website that displays different food items and allows users to filter them based on categories. This project is built to practice React components, state management, and dynamic filtering.
+
+📌 Project Overview
+The application shows a list of food items with categories such as Breakfast, Lunch, Dinner, and Snacks. Users can filter menu items by selecting a category.
+
+✨ Features
+Display food menu items
+Category-based filtering
+Dynamic UI updates
+Reusable React components
+Clean and responsive design
+
+🎯 Purpose
+To learn React fundamentals like components, props, state management, and filtering data dynamically.
